@@ -51,7 +51,7 @@ void loop() {
     Serial.print(MCT);
     Serial.print(",");
     Serial.println(BatLevel);
-    delay(500);
+    delay(500);//delay is for testing purposes
   }
 
 /*
